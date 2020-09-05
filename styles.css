@@ -2,8 +2,11 @@ body{
     background: #f2f2f2;
 }
 h1 {
-  color: black; font-family:Calibri; text-align: center; font-size: 50;
+  color: black; font-family:Calibri; text-align: center; font-size: 80;
 }
 p {
-  color: white; font-family: Calibri; text-align: center; font-size: 40;
+  color: black; font-family: Calibri; text-align: center; font-size: 60;
+}
+p1 {
+    color: navy; font-family: alberta; text-align: center; font-size: 55;
 }
