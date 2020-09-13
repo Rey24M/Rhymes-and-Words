@@ -11,7 +11,5 @@ p1 {
     color: navy; font-family: alberta; text-align: center; font-size: 55;
 }
 div{
-    border: 2.5px outset darkgrey ;
-  background-color: white;    
-  text-align: center;
+    border: 2.5px outset darkgrey; background-color: white; text-align: center;
 }
