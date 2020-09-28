@@ -27,3 +27,7 @@ p1 {
 div{
     background-color: white; text-align: center;
 }
+.relative {
+  position: relative;
+  left: 90px; top: 90px;
+}
