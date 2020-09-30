@@ -26,7 +26,7 @@ p1 {
 }
 div.absolute {
   position: absolute;
-  top: 100px;
+  left: 290px; top: 100px;
   font-family: sans-serif;
   text-align: center;
 }
