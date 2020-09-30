@@ -16,7 +16,7 @@ div.bg {
   background-size: cover;
 }
 h1 {
-  color: black; font-family:Calibri; text-align: center; font-size: 60px;
+  color: black; font family: sans-serif;; text-align: center; font-size: 60px;
 }
 p {
   color: black; font-family: Calibri; text-align: center; font-size: 40px;
@@ -27,5 +27,4 @@ p1 {
 div.absolute {
   position: absolute;
   left: 210px; top: 150px;
-  font size: 80px; font family: sans-serif;
 }
