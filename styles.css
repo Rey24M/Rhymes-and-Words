@@ -27,5 +27,5 @@ p1 {
 div.absolute {
   position: absolute;
   left: 300px; top: 100px;
-  font family: sans-serif;
+  font-family: sans-serif;
 }
