@@ -24,9 +24,6 @@ p {
 p1 {
     color: navy; font-family: alberta; text-align: center; font-size: 35px;
 }
-div{
-    background-color: white; text-align: center;
-}
 .absolute {
   position: absolute;
   left: 210px; top: 150px;
