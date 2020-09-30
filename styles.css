@@ -3,7 +3,7 @@ body, html {
   margin: 0;
 }
 
-.bg {
+div.bg {
   /* The image used */
   background-image: url("title pg.png");
 
@@ -24,7 +24,7 @@ p {
 p1 {
     color: navy; font-family: alberta; text-align: center; font-size: 35px;
 }
-.absolute {
+div.absolute {
   position: absolute;
   left: 210px; top: 150px;
   font size: 80px; font family: sans-serif;
