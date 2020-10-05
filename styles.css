@@ -36,8 +36,11 @@ p1 {
  /* Element Positioning */
 
 div.absolute {
-  position: absolute;
-  left: 310px; top: 20px;
+  margin: 0;
+    position: absolute;
+    top: 17%;
+    left: 25%;
+    margin-right: -25%;
   font-family: sans-serif;
   text-align: center;
 }
