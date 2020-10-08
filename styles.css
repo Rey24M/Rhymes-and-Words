@@ -41,7 +41,7 @@ p1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 20px;
+  font-size: 22px;
   margin: 4px 2px;
   cursor: pointer;
 }
@@ -78,26 +78,26 @@ div.absolute {
 
 .button2 {
    position: absolute;
-    top: 0%;
-    left: 0%; 
+    top: 2%;
+    left: 2%; 
 }
 .button3 {
    position: absolute;
   top: 0%;
-  left: 13%;
+  left: 12%;
 }
 .button4 {
    position: absolute;
-    top: 0%;
-    left: 65%; 
+    top: 2%;
+    left: 66%; 
 }
 .button5 {
    position: absolute;
-    top: 0%;
-    left: 78%; 
+    top: 2%;
+    left: 79%; 
 }
 .button6 {
    position: absolute;
-    top: 0%;
-    left: 90%; 
+    top: 2%;
+    left: 91%; 
 }
