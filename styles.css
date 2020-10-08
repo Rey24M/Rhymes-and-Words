@@ -58,8 +58,8 @@ div.absolute {
     margin: 0;
     position: absolute;
     top: 40%;
-    left: 36%;
-    margin-right: -36%; 
+    left: 32%;
+    right: -32%; 
   font-family: sans-serif;
   text-align: center;
 }
