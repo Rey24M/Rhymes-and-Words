@@ -25,6 +25,7 @@ div.bg {
   border: black;
   background-color: transparent;    
   text-align: center;
+   padding: 15px 15px;
 }
 
 .section2 {
