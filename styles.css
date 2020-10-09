@@ -22,7 +22,7 @@ div.bg {
 .myDiv {
   position: absolute;
   left: 47%; top: 80;
-  border: none;
+  border: black;
   background-color: transparent;    
   text-align: center;
 }
