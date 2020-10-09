@@ -21,8 +21,8 @@ div.bg {
 
 .myDiv {
   position: absolute;
-  left: 47%; top: 80;
-  border: black;
+  left: 50%; top: 80%;
+  border: #000000;
   background-color: transparent;    
   text-align: center;
    padding: 15px 15px;
