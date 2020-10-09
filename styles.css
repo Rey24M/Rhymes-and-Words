@@ -2,6 +2,9 @@ body, html {
   height: 100%;
   margin: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 div.bg {
   /* The image used */
@@ -15,6 +18,21 @@ div.bg {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.myDiv {
+  position: absolute;
+  left: 47%; top: 80;
+  border: none;
+  background-color: transparent;    
+  text-align: center;
+}
+
+#section2 {
+  height: 290%;
+  background-color: white;
+}
+
+
 h1 {
   color: #ffffff; text-align: center; font: 80px Helvetica, sans-serif; 
 }
