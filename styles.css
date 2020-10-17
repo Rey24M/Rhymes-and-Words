@@ -51,7 +51,7 @@ p {
 p1 {
     color: navy; font-family: alberta; text-align: center; font-size: 35px;
 }
-t1 {  color: #000000; text-align: center; font: 60px Helvetica, sans-serif;
+t1 {  color: #000000; text-align: center; font: 50px Helvetica, sans-serif;
 }
     
 .button {
@@ -129,7 +129,16 @@ div.absolute {
 
 .eflection{
   Position: absolute;
-  top: 101%; left: 40%;
+  top: 102%; left: 40%;
 }
   
+.tab{
+  position: fixed;
+  top:100%; 
+}
+
+.t1{
+  position: absolute;
+  top: 100%; left:0%;
+}
     
