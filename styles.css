@@ -125,14 +125,10 @@ div.absolute {
     top: 2%;
     left: 95%; 
 }
-.R{
-  Position: absolute;
-  top: 101%; left: 32.6%;
-}
 
-.eflection{
+.reflection{
   Position: absolute;
-  top: 110%; left: 40%;
+  top: 110%; left: 45%;
 }
   
 .tab{
