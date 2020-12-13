@@ -80,6 +80,7 @@ div.absolute {
     margin-right: -25%; 
   font-family: sans-serif;
   text-align: center;
+  text-shadow: 1px 1px 4px #000000;
 }
 
 .subtitle1{
@@ -90,6 +91,7 @@ div.absolute {
     margin-right: -40%; 
   font-family: sans-serif;
   text-align: center;
+   text-shadow: 1px 1px 4px #000000;
 }
 .subtitle2{
     margin: 0;
