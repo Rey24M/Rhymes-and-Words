@@ -136,9 +136,13 @@ div.absolute {
     left: 95%; 
 }
 
-.reflection{
+.poems{
   Position: absolute;
   top: 110%; left: 45%;
+}
+.essays{
+  Position: absolute;
+  top: 210%; left: 25%;
 }
   
 .tab{
