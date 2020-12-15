@@ -149,6 +149,11 @@ div.absolute {
   position: fixed;
   top:100%; 
 }
+.essayImg{
+  position: absolute;
+  top:220%
+}
+  
 
 
     
