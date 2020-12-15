@@ -158,6 +158,7 @@ div.absolute {
   position: absolute;
   top:305%;
   height: 30%;
+  width: 100%;
   background-color: #1a1a1a;
   
 }
