@@ -33,7 +33,8 @@ div.bg {
   background-color: #e6f5ff;
 }
 #section3 {
-  height: 205%;
+  top: 205%;
+  height: 100%;
   background-color: #ffffcc;
 }
 
@@ -151,9 +152,12 @@ div.absolute {
 }
 .essayImg{
   position: absolute;
-  top:215%
+  top:215%;
 }
-  
-
+.endBox{
+  position: absolute;
+  top:305%;
+}
+    
 
     
