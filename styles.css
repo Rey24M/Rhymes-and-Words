@@ -156,7 +156,7 @@ div.absolute {
 }
 .endBox{
   position: absolute;
-  top:305%;
+  bottom:0%;
   height: 30%;
   width: 100%;
   background-color: #1a1a1a;
