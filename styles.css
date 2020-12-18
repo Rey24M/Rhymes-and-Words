@@ -179,7 +179,7 @@ div.absolute {
 }
 .coFounder1{
   position: absolute;
-  top:90%;
+  top:105%;
   margin-left: 15%;
   width: 30%;
   height: 60%;
@@ -187,8 +187,8 @@ div.absolute {
 }
 .coFounder2{
   position: absolute;
-  top:90%;
-  margin-left: 15%;
+  top:105%;
+  margin-right: 15%;
   width: 30%;
   height: 60%;
   background-color: #f2f2f2;
