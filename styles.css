@@ -177,6 +177,8 @@ div.absolute {
   margin-left: 15%;
   background-color: #f2f2f2;
 }
+
+/* about */
 .coFounder1{
   position: absolute;
   top:115%;
@@ -194,4 +196,20 @@ div.absolute {
   height: 60%;
   background-color: #f2f2f2;
 }
-    
+
+/* library */
+.poemBox {    
+position: absolute;
+  top: 51%;
+  left: 5%;
+}
+.essayBox {    
+position: absolute;
+  top: 51%;
+  left: 35%;
+}
+.poemExBox {    
+position: absolute;
+  top: 51%;
+  right: 5%;
+}
