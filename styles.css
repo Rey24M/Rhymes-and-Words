@@ -216,7 +216,7 @@ position: absolute;
   right: 5%;
 }
 .click {
-   transition-duration: 0.2s;
+  transition-duration: 0.5s;
   cursor: pointer;
 }
 .click :hover {
