@@ -230,7 +230,10 @@ position: absolute;
 
 .list{
   color: #1a1a1a; font-family: Calibri; text-align: center; font-size: 30px; background-color: transparent;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
+
 .list:hover {
   background-color: #1a1a1a;
   color:#ffffff;
