@@ -200,18 +200,18 @@ div.absolute {
 /* library */
 .poemBox {    
 position: absolute;
-  top: 49%;
+  top: 47%;
   left: 5%;
   height: 20%;
   width: 20%;
 }
 .essayBox {    
 position: absolute;
-  top: 49%;
+  top: 47%;
   left: 35%;
 }
 .poemExBox {    
 position: absolute;
-  top: 49%;
+  top: 47%;
   right: 5%;
 }
