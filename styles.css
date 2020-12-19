@@ -232,7 +232,7 @@ position: absolute;
   color: #1a1a1a; font-family: Calibri; text-align: center; font-size: 25px; background-color: transparent;
 }
 .list :hover{
-  background-color: transparent;
+  background-color: #1a1a1a;
   color:#ffffff;
 }
 
