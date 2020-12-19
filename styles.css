@@ -225,3 +225,14 @@ position: absolute;
 .click :hover {
   box-shadow: 0 4px 8px 0 rgba(97, 59, 59, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 1);
 }
+
+/* poems & essays & explanations */
+
+.list{
+  color: #1a1a1a; font-family: Calibri; text-align: center; font-size: 25px; background-color: transparent;
+}
+.list :hover{
+  background-color: transparent;
+  color:#ffffff;
+}
+
