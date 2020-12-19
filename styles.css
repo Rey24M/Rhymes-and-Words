@@ -54,7 +54,7 @@ p {
   margin-left: 1%; color: #1a1a1a; font-family: Calibri; text-align: left; font-size: 25px;
 }
 p1 {
-    color: navy; font-family: alberta; text-align: center; font-size: 35px;
+     color: #ffffff; text-align: center; font: 30px Helvetica, sans-serif;
 }
 t1a {  color: #001a33; text-align: center; font: 80px Helvetica, sans-serif;text-shadow: 1px 1px 4px #ffffff;
 }
