@@ -229,7 +229,7 @@ position: absolute;
 /* poems & essays & explanations */
 
 .list{
-  color: #1a1a1a; font-family: Calibri; text-align: center; font-size: 25px; background-color: transparent;
+  color: #1a1a1a; font-family: Calibri; text-align: center; font-size: 30px; background-color: transparent;
 }
 .list :hover{
   background-color: #1a1a1a;
