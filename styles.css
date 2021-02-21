@@ -56,6 +56,12 @@ sh {
     top: 09%;
     left: 7.2%;
 }
+.halt {
+  margin: 0;
+    position: absolute;
+    top: 09%;
+    left: 7.2%;
+}
 
 p {
   margin-left: 1%; color: #1a1a1a; font-family: Calibri; text-align: left; font-size: 25px;
