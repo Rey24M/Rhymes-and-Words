@@ -50,18 +50,13 @@ h3 {
   color: #1a1a1a; text-align: center; font: 28px Helvetica, sans-serif; 
 }
 sh {
-  color: #ffffff; text-align: center; font: 60px Helvetica, sans-serif; 
+  color: #ffffff; text-align: center; font: 62px Helvetica, sans-serif; 
   margin: 0;
     position: absolute;
-    top: 09%;
+    top: 10.5%;
     left: 7.2%;
 }
-.halt {
-  margin: 0;
-    position: absolute;
-    top: 09%;
-    left: 7.2%;
-}
+
 
 p {
   margin-left: 1%; color: #1a1a1a; font-family: Calibri; text-align: left; font-size: 25px;
