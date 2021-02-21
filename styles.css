@@ -49,6 +49,9 @@ h2 {
 h3 {
   color: #1a1a1a; text-align: center; font: 28px Helvetica, sans-serif; 
 }
+sh {
+  color: #ffffff; text-align: center; font: 60px Helvetica, sans-serif; 
+}
 
 p {
   margin-left: 1%; color: #1a1a1a; font-family: Calibri; text-align: left; font-size: 25px;
